@@ -1,0 +1,18 @@
+aaa	bbb	ccc	ddd	eee
+wrt
+del
+2
+wrt
+add
+2
+fff
+wrt
+add
+33
+lll
+wrt
+edt
+0
+zzz
+wrt
+cls
